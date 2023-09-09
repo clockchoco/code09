@@ -1,2 +1,1 @@
-# oop1
-object oriented programming education
+# RETRY PROGRAMMING!!!
